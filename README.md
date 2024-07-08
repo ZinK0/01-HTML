@@ -1,5 +1,7 @@
 # 🏗️ Create a Webpage Using HTML
 
+![01-HTML Template](https://github.com/ZinK0/01-HTML/blob/main/assets/image-1.png)
+
 Work with a partner to implement the following user story:
 
 * As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
